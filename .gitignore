@@ -1,1 +1,8 @@
+# Ignorar arquivos de configuração
+cypress.config.js
+
+# Ignorar arquivo de dependências
+package-lock.json
+
+# Ignorar diretório de módulos
 node_modules
